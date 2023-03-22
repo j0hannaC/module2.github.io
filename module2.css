@@ -3,9 +3,11 @@
   width:100%;
   }
 
-p {
+h1 {
   color:blue;
 }
+
+
 
 @media (min width: 992px) {
 .col-lg-1, col-lg-2, col-lg-3{
