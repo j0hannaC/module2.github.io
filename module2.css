@@ -7,6 +7,12 @@ h1 {
   color:blue;
 }
 
+p {
+  margin-right: auto;
+  margin-left: auto;
+  width: 90%
+  height: 250px
+}
 
 
 @media (min width: 992px) {
