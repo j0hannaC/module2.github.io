@@ -1,10 +1,8 @@
 
-.row {
-  width:100%;
-  }
 
 h1 {
   color:blue;
+  left: 100px;
 }
 
 
@@ -28,16 +26,13 @@ h1 {
   position: relative;
 }
 
-#p1{
-  position:relative;
-  top: 65px;
-  left: 65px;
-}
-#p2{
+#box3 {
+  padding: 10px;
+  right: 50px;
   position: relative;
-  top: 65px;
-  left: 90px;
 }
+  
+
 
 @media (min width: 992px) {
   
