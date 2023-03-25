@@ -38,10 +38,14 @@ h1 {
 }
 
 @media (min width: 992px) {
-.col-lg-1, .col-lg-2, .col-lg-3{
-float left;
-border: 1px blue;
+  
+  #box{
+    width: 80%
 }
+  #box1{
+    width: 150px;
+    height: 150px;
+    
 
 col-lg-1 {
 width: 25%;
