@@ -9,7 +9,7 @@ h1 {
 }
 
 
-#box{
+#p1{
   Padding: 10px;
   border: 5px solid black;
   width: 100px;
@@ -20,7 +20,7 @@ h1 {
   float: left;
 }
   
-#box1 {
+#p2 {
   padding: 10px;
   border: 5px solid black;
   top: 50px;
@@ -30,7 +30,7 @@ h1 {
   position: absolute;
 }
 
-#box3 {
+#p3 {
   padding: 10px;
   border: 5px solid black;
   right: 0;
