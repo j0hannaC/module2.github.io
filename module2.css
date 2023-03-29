@@ -10,21 +10,15 @@ h1 {
 
 
 #p1{
-  Padding: 10px;
   border: 5px solid black;
   width: 100px;
   height: 100px;
-  margin-top:50px;
-  overflow: visible;
-  position: absolute;
   float: left;
 }
   
 #p2 {
   padding: 10px;
   border: 5px solid black;
-  top: 50px;
-  left: 100px;
   width: 100px;
   height: 100px;
   position: absolute;
@@ -33,8 +27,8 @@ h1 {
 #p3 {
   padding: 10px;
   border: 5px solid black;
-  right: 0;
-  position: absolute;
+  width: 100px;
+  height: 100px;
   float: right;
 }
   
