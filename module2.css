@@ -15,12 +15,13 @@ h1 {
 }
 
 #p1{
-  float: right;
+  float: left;
   
 }
   
 #p2 {
   background-color: #A52A2A;
+  float: right;
 }
 
 #p3 {
