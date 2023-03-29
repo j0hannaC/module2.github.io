@@ -5,6 +5,8 @@ p {
   width: 50px;
   border: 1px solid black;
   padding: 10px;
+  float: left;
+  margin-right: 10px;
 }
 
 h1 {
@@ -19,7 +21,7 @@ h1 {
   
 #p2 {
   background-color: #A52A2A;
-  float: right;
+ 
 }
 
 #p3 {
