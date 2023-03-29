@@ -6,7 +6,6 @@ box-sizing: border-box;
 p {
   width: 50px;
   border: 1px solid black;
-  float: left;
   padding: 10px;
 }
 
@@ -16,6 +15,7 @@ h1 {
 }
 
 #p1{
+  float: right;
   
 }
   
