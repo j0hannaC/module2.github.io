@@ -1,7 +1,7 @@
 
 div {
   float: left;
-  padding: 20px;
+  padding: 70px;
   border: 10px solid black;
 }
 
@@ -19,7 +19,7 @@ div {
   
 h1 {
   color:blue;
-  left: 100px;
+  float: center;
 }
 
   
