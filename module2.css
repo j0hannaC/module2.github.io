@@ -18,8 +18,9 @@ div {
 }
   
 h1 {
-  color:blue;
+  color: blue;
   float: center;
+  position:  fixed;
 }
 
   
