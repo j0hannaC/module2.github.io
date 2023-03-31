@@ -1,35 +1,14 @@
 
-
-
-p {
-  width: 50px;
-  border: 1px solid black;
-  padding: 10px;
-  margin-right: 10px;
+div {
+  float: left;
+  padding: 30px;
 }
-
+  
 h1 {
   color:blue;
   left: 100px;
 }
 
-#p1{
-  float: left;
-  
-}
-  
-#p2 {
-  background-color: #A52A2A;
- 
-}
-
-#p3 {
-  float: right;
- 
-}
-section {
-clear: left;
-}
   
 
  
