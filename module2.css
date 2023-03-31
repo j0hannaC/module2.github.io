@@ -2,7 +2,7 @@
 div {
   float: left;
   padding: 100px;
-  border: solid black;
+  border: 10px solid black;
 }
 
 .div1 {
