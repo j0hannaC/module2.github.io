@@ -8,8 +8,7 @@ h1 {
 div {
 }
 P {
-  width: 50%
-  height: 50px
+  width: 25%
   float: left;
   border: 1px solid black;
 }
@@ -23,7 +22,7 @@ P {
   background: blue;
 }
 
-#3 {
+#p3 {
   background: red;
 }
  
