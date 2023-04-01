@@ -1,23 +1,29 @@
+* {
+  box-sizing: border-box;
+}
 h1 {
   color: blue;
   float: center;
 }
 
 div {
+}
+P {
+  width: 50px
   float: left;
-  padding: 70px;
-  border: 10px solid black;
+  border: 1px solid black;
 }
 
-.div1 {
+
+#p1 {
   background: green;
 }
 
-.div2 {
+#p2 {
   background: blue;
 }
 
-.div3 {
+#3 {
   background: red;
 }
  
