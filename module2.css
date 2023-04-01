@@ -6,20 +6,15 @@ h1 {
   color: blue;
   text-align:center;
 }
+.container{
+  position: relative;
+}
 
 .topright{
   position: absolute;
   top: 8px;
   right: 16px;
   font-size: 18px;
-}
-
-P {
-  width: 25%;
-  float: left;
-  border: 1px solid grey;
-  padding: 10px;
-  margin-bottom: 15px;
 }
 
 #left {
