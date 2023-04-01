@@ -1,15 +1,12 @@
 * {
   box-sizing: border-box;
 }
-.style {
-  font-family: Arial, Helvetica, sans-serif
-}
+
 h1 {
   color: blue;
+  text-align:center;
 }
 
-div#container {
-}
 P {
   width: 25%;
   float: left;
@@ -18,31 +15,24 @@ P {
   margin-bottom: 15px;
 }
 
-
-#p1 {
-  background: #FFE4C4;
-  position: relative;
-  top: 10px;
-  left: 10px;
-  margin: 20px;
+#left {
+  float: left;
+  width: 35%
+   height: 280px;
 }
 
-#p2 {
-  background: #6495ED; 
-  position: relative;
-  top: 10px;
-  left: 30px;
-  margin: 20px;
+#middle{
+  float:left;
+  width: 50px;
+  height:280px;
 }
 
-#p3 {
-  background: #F08080;
-  position: relative;
-  top: 10px;
-  left: 50px;
-  margin: 20px;
+#right{
+  float:right;
+  width:25%;
+  height:280px;
 }
- 
+
 
   
 
