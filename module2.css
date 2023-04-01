@@ -1,3 +1,8 @@
+h1 {
+  color: blue;
+  float: center;
+  position:  fixed;
+}
 
 div {
   float: left;
@@ -16,12 +21,7 @@ div {
 .div3 {
   background: red;
 }
-  
-h1 {
-  color: blue;
-  float: center;
-  position:  fixed;
-}
+ 
 
   
 
