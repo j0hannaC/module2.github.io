@@ -16,6 +16,18 @@ h1 {
   background: green;
 }
 
+#lbox{
+  float:left;
+  width:180px;
+  height:160px;
+  border: solid black;
+}
+
+mbox#{
+  float:left;
+  width:180px;
+  height:
+
 #topright{
   position: absolute;
   padding: 10px;
