@@ -17,21 +17,21 @@ P {
 
 
 #p1 {
-  background: green;
+  background: #FFE4C4;
   position: relative;
   top: 10px;
   left: 10px;
 }
 
 #p2 {
-  background: blue; 
+  background: #6495ED; 
   position: relative;
   top: 10px;
   left: 30px;
 }
 
 #p3 {
-  background: red;
+  background: #F08080;
 }
  
 
