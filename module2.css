@@ -18,10 +18,16 @@ P {
 
 #p1 {
   background: green;
+  position: relative;
+  top: 10px;
+  left: 10px;
 }
 
 #p2 {
-  background: blue;
+  background: blue; 
+  position: reltive;
+  top: 10px;
+  left: 30px;
 }
 
 #p3 {
