@@ -10,7 +10,7 @@ h1{
   margin-bottom:20px;
 }
 
-.outer1{
+#outer1{
   width:400px;
   height:300px;
   padding:5px;
@@ -57,7 +57,7 @@ h1{
 }
 
 @media (min-width: 1200px){
-  .outer1{
+  #outer1{
   background:red;
   }
 }
