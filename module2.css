@@ -57,12 +57,12 @@ h1{
 
 @media (min-width: 1200px){
   #outer1, #outer2, #outer3{
-  background:red;
   float:left;
     border: solid 1px;
   }
   #outer1 {
     width:33.33%;
+    background:red;
   }
   #outer2 {
     width:33.33%;
