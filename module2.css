@@ -10,7 +10,7 @@ h1{
   margin-bottom:20px;
 }
 
-#outer{
+#outer1{
   width:400px;
   height:300px;
   padding:5px;
@@ -38,7 +38,7 @@ h1{
   float:left;
 }
 
-#inner{
+#inner1{
   background:grey;
   border:solid 1px;
   width:200px;
