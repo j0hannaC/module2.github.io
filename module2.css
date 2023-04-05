@@ -57,9 +57,37 @@ h1{
 }
 
 @media (min-width: 1200px){
-  #outer1{
+  #outer1, #outer2, #outer3{
   background:red;
+  float:left;
   }
+  #outer1 {
+    width:33.33%;
+  }
+  #outer2 {
+    width:33.33%;
+  }
+  #outer3{
+    width:33.33%
+  }
+}
+
+@media(min-width:950px) and(max-width:1199px){
+  #outer1, #outer2, #outer3{
+    background: yellow;
+    float:left;
+  }
+  #outer1 {
+    width: 50%;
+  }
+  #outer2 {
+    width:50%;
+  }
+  #outer3{
+    width: 100%;
+  }
+}
+  
 }
 
 
