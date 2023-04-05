@@ -57,7 +57,7 @@ h1{
 }
 
 @media screen(min width:992px) {
-  div.outer1 {
+  #outer1 {
     float:left;
       width:33.33%;
     background:red;
