@@ -56,6 +56,12 @@ h1{
   padding:10px;
 }
 
+@media screen(min width:992px) {
+  div.outer1 {
+    float:left;
+      width:33.33%;
+  }
+    
 
 
 
