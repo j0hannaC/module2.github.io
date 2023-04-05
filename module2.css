@@ -59,7 +59,7 @@ h1{
   #outer1, #outer2, #outer3{
   background:red;
   float:left;
-    width:33.33%
+    width:33.33
     border: solid 1px;
   }
   #outer1 {
@@ -80,10 +80,10 @@ h1{
     border:solid 1px;
   }
   #outer1 {
-    width: 50%;
+    width: 60%;
   }
   #outer2 {
-    width:50%;
+    width:40%;
   }
   #outer3{
     width: 100%;
