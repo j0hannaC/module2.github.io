@@ -20,7 +20,7 @@ h1{
   float:left;
 }
 
-#outer2{
+.outer2{
   width:400px;
   height:300px;
   padding:5px;
@@ -29,7 +29,7 @@ h1{
   float:left;
 }
 
-#outer3{
+.outer3{
   width:400px;
   height:300px;
   padding:5px;
@@ -56,12 +56,13 @@ h1{
   padding:10px;
 }
 
-@media screen(min width:992px) {
-  .outer1 {
+@media screen(min-width:992px) {
+  .outer1, .outer2, .outer3{
     float:left;
       width:33.33%;
     background:red;
   }
+}
     
 
 
