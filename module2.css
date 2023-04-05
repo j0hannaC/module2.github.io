@@ -49,7 +49,29 @@ h1{
   float:right;
   margin-bottom:15px;
 }
+#inner2{
+  background:grey;
+  border:solid 1px;
+  width:200px;
+  text-align: center;
+  positon: relative;
+  top:5px;
+  right:5px;
+  float:right;
+  margin-bottom:15px;
+}
 
+#inner3{
+  background:grey;
+  border:solid 1px;
+  width:200px;
+  text-align: center;
+  positon: relative;
+  top:5px;
+  right:5px;
+  float:right;
+  margin-bottom:15px;
+}
 #content{
   clear:right;
   height:300px;
@@ -60,6 +82,7 @@ h1{
   #outer1, #outer2, #outer3{
   background:red;
   float:left;
+    width:33.33%
   }
   #outer1 {
     width:33.33%;
