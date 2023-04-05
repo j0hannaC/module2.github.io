@@ -58,7 +58,7 @@ h1{
 
 @media (min-width: 1200px){
   .outer1{
-  color:red;
+  background-color:red;
   }
 }
 
