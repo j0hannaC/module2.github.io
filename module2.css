@@ -70,7 +70,7 @@ h1{
   #outer3{
     width:33.33%
   }
-}
+
 
 @media(min-width:768px) and(max-width:991px){
   #outer1, #outer2, #outer3{
