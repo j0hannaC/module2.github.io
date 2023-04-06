@@ -55,7 +55,7 @@ h1{
   padding:10px;
 }
 
-@media (min-width: 1200px){
+@media (min-width: 992px){
   #outer1, #outer2, #outer3{
   float:left;
     border: solid 1px;
@@ -72,20 +72,26 @@ h1{
   }
 }
 
-@media(min-width:950px) and(max-width:1199px){
+@media(min-width:768px) and(max-width:991px){
   #outer1, #outer2, #outer3{
     background: yellow;
     float:left;
     border:solid 1px;
   }
   #outer1 {
-    width: 60%;
+    width: 25%;
   }
   #outer2 {
-    width:40%;
+    width:25%;
   }
   #outer3{
     width: 100%;
+  }
+}
+
+@media(max width:767px) {
+  #outer1, #outer2, #outer3{
+    width:100%;
   }
 }
   
