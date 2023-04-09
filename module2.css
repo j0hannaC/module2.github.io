@@ -34,24 +34,23 @@ h1{
   height:210px;
   border: 2px solid;
   background: #99ccff;
-  margin-left: 20px;
+  margin-left: 10px;
   margin-right: 8px;
   margin-bottom: 10px;
   position: relative;
   float: left;
-  left: 10px;
 }
 .outer2{
   width:420px;
   height:210px;
   border: 2px solid;
   background:	#ffdab9; 
-  margin-left: 8px;
-  margin-right: 10px;
+  margin-left: 10px;
+  margin-right: 8px;
   margin-bottom:10px;
   position: relative;
   float:left;
-  left:10px;
+
 }
 .outer3{
    width:420px;
@@ -59,7 +58,7 @@ h1{
   border: 2px solid;
   background: #66cdaa; 
   margin-left: 10px;
-  margin-right: 10px;
+  margin-right: 8px;
   margin-bottom:10px;
   position: relative;
   float:left;
@@ -82,7 +81,7 @@ h1{
   margin: 10px; 
 }
 
-@media (min-width 1200px){
+@media (min-width 992px){
 .outer1{
  width: 33%;
 }
@@ -94,27 +93,32 @@ width:33%
 }
 }
 
-@media (min-width: 992px) and (max-width: 1199px) {
+@media (min-width: 768px) and (max-width: 991px) {
 .outer1 {
 width:45%;
-left:0;
+height:250px;
+
 margin-right: 1px;
 margin:left:6px;
+margin-bottom:10px;
 
 }
 .outer2{
 width:45%;
+height: 250px;
 margin-right:4px;
+margin-bottom:10px;
 
 }
 .outer3{
 width: 92%;
-right:5px;
-margin-left:25px;
+height: 150px;
+
+margin-left:6px;
  }
 }
 
-@media (max-width:991px){
+@media (max-width:767x){
 .outer1{
 width:90%;
 float:left;
@@ -136,8 +140,3 @@ margin-left:40px;
 }
 
 
-
-
-
-
- 
