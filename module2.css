@@ -26,6 +26,30 @@ h1{
    right:0;
    text-align: center;
 }
+.p2 {
+   width: 100px;
+   height: 25px;
+   background: #66cdaa;
+   border: 1px solid;
+   float: right;
+   position: relative;
+   top:0;
+   right:0;
+   text-align: center;
+}
+
+.p3{
+   width: 100px;
+   height: 25px;
+   background: #e6dce5;
+   border: 1px solid;
+   float: right;
+   position: relative;
+   top:0;
+   right:0;
+   text-align: center;
+  
+}
 
 /* container box for 1st box*/
 .outer1{
@@ -58,45 +82,6 @@ h1{
   position: relative;
   float:left;
 }
-
-.inner1{
-  background: #66cdaa;
-  width: 50px;
-  height:20px;
-  border: 1px solid;
-  text-align: center;
-  padding: 10px
-  position: relative;
-  top: 0;
-  left: 50px;
-}
-
-.inner2 {
-    background: #99ccff;
-  width: 50px;
-  height:20px;
-  border: 1px solid;
-  text-align: center;
-  padding: 10px
-  position: relative;
-  top: 0;
-  left: 50px;
-  
-}
-
-
-.inner3 {
-    background: #ffe4b5;
-  width: 50px;
-  height:20px;
-  border: 1px solid;
-  text-align: center;
-  padding: 10px
-  position: relative;
-  top: 0;
-  left: 50px;
-}
-
 .content{
   padding: 5px;
   position: relative;
