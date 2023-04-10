@@ -91,4 +91,39 @@ h1{
 }
 
 
+@media (min-width: 992px) and (max-width:1069px){
+.outer1{
+ width: 30%;
+float:left;
+margin-left:5px;
+}
+ .outer2{
+width:30%;
+float:left;
+margin-left:5px;
+}
+.outer3{
+width:30%
+float:left;
+margin-left:5px;
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+.outer1 {
+width:45%;
+margin-right: 4px;
+margin:left:6px;
+margin-bottom:10px;
+}
+.outer2{
+width:45%;
+margin-right:4px;
+margin-bottom:10px;
+}
+.outer3{
+width: 91.5%;
+margin-left:10px;
+ }
+}
+
 
