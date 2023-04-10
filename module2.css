@@ -31,7 +31,7 @@ h1{
 .outer1{
   width:400px;
   border: 2px solid;
-  background: #99ccff;
+  background: #ffdab9;
   margin-left: 10px;
   margin-right: 8px;
   margin-bottom: 10px;
@@ -51,7 +51,7 @@ h1{
 .outer3{
   width:400px;
   border: 2px solid;
-  background: #66cdaa; 
+  background: #ffdab9; 
   margin-left: 10px;
   margin-right: 8px;
   margin-bottom:10px;
@@ -60,7 +60,7 @@ h1{
 }
 
 .inner1{
-  background: #ffe4b5;
+  background: #66cdaa;
   width: 50px;
   height:20px;
   border: 1px solid;
@@ -70,6 +70,33 @@ h1{
   top: 0;
   left: 50px;
 }
+
+.inner2 {
+    background: #99ccff;
+  width: 50px;
+  height:20px;
+  border: 1px solid;
+  text-align: center;
+  padding: 10px
+  position: relative;
+  top: 0;
+  left: 50px;
+  
+}
+
+
+.inner3 {
+    background: #ffe4b5;
+  width: 50px;
+  height:20px;
+  border: 1px solid;
+  text-align: center;
+  padding: 10px
+  position: relative;
+  top: 0;
+  left: 50px;
+}
+
 .content{
   padding: 5px;
   position: relative;
